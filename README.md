@@ -1,5 +1,6 @@
 # Reflectie
 
+<<<<<<< HEAD
 ## Wessel de Groot
 
 1. Wat heb ik met deze lessen nieuw geleerd?
@@ -35,3 +36,14 @@
 ### voor deze lessen ik had niks geweten over github of cmd
 
 ### ik ga wel meer leren over github, meer over hoe kan ik sommige problemen oplessen, omdat ik ben  100 percent gaat dit gebruiken in de toekomst 
+
+## Martijn Nuis
+
+1. wat heb ik deze lessen geleerd?
+#### heb geleerd hoe ik met git en github werk en daarmee plaatjes en dingen kan aan passen
+
+2. wat wist ik al?
+#### ik kende alleen de github maar niet hoe het werkte.
+
+3. waarvan zou ik nog meer willen weten?
+#### ik zou nog meer willen weten over hoe ik beter dingen kan toevoegen qua plaatjes aanpassen enzo
