@@ -1,6 +1,5 @@
 # Reflectie
 
-<<<<<<< HEAD
 ## Wessel de Groot
 
 1. Wat heb ik met deze lessen nieuw geleerd?
@@ -14,7 +13,7 @@
 3. Waarvan zou ik nog meer willen weten
 
 ### Weet ik nog niet, maar als ik een vraag heb zal ik hem stellen
-=======
+
 ## Luke Alber-Kint
 
 1. Wat heb ik nieuw geleerd met deze lessen?
@@ -27,5 +26,6 @@
 
 3. Wat zou ik nog meer willen weten?
 
-### Hoe ik een fighting game maak in untiy
->>>>>>> origin/luke
+### Hoe ik een fighting game maak in unity
+
+
