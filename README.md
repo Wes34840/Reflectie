@@ -1,6 +1,5 @@
 # Reflectie
 
-<<<<<<< HEAD
 ## Wessel de Groot
 
 1. Wat heb ik met deze lessen nieuw geleerd?
